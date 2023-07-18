@@ -10,7 +10,7 @@ Before run bot you need to make your own `config.json` like this:
     "token" : "your-bot-token",
     "clientId" : "your-bot-clientid",
     "guildId" : "your-bot-guildId",
-    "apikeyOWM" : "your-api-key-OpenWeatheMap"
+    "apikeyOWM" : "your-api-key-OpenWeatherMap"
 }
 ```
 
